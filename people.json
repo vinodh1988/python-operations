@@ -1,0 +1,17 @@
+[
+    {
+        "sno": 1,
+        "name": "Ravi",
+        "city": "Chennai"
+    },
+    {
+        "sno": 2,
+        "name": "Lokesh",
+        "city": "Mumbai"
+    },
+    {
+        "sno": 3,
+        "name": "Krishna",
+        "city": "Chennai"
+    }
+]
