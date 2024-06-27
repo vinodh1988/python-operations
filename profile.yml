@@ -1,0 +1,16 @@
+age: 38
+experience:
+- company: ABC Technologies
+  technology: Java
+  years: 3
+- company: RK Technologies
+  technology: SQL
+  years: 3
+- company: NTK Technologies
+  technology: AWS
+  years: 3
+name: Adam
+skills:
+- Java
+- SQL
+- AWS
