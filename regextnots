@@ -7,3 +7,6 @@ $- Ending with
 [0:9] - any digit
 [xyz]- x or y or z
 [^xyz]- except x or y or z
+
++ - one or more occurances
+* - zero or more occurances
