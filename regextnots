@@ -1,3 +1,9 @@
 ^ - beginning with
 $- Ending with
 . - any character
+[abc] - a or b or c
+[a-z] - any single character from a-z
+[A-Za-z] - any alphabhet
+[0:9] - any digit
+[xyz]- x or y or z
+[^xyz]- except x or y or z
