@@ -12,3 +12,4 @@ $- Ending with
 * - zero or more occurances
 {n} - n occurances
 {m,n} - minimum m occurances maximum n occurances
+(cat|mat|rat) - cat or rat or mat
