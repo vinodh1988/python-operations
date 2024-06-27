@@ -10,3 +10,5 @@ $- Ending with
 
 + - one or more occurances
 * - zero or more occurances
+{n} - n occurances
+{m,n} - minimum m occurances maximum n occurances
